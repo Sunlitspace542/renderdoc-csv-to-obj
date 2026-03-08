@@ -1,5 +1,6 @@
 # renderdoc-csv-to-obj
-Python 3 RenderDoc CSV to Wavefront (OBJ) converter. Note that this was written for Vulkan models, but with some tweaking you can get this to read OpenGL and DirectX stuff as well.
+Python 3 RenderDoc CSV to Wavefront (OBJ) converter. Note that this was written for Vulkan models, but with some tweaking you can get this to read OpenGL and DirectX stuff as well.  
+**WARNING:** This was a GPT Studio job. None of the scripts I could find worked for me, so I threw them all at it to get one good working one.  
 
 ## TO USE
 ``python3 renderdoc_csv_to_obj.py input.csv [input] [options]``  
